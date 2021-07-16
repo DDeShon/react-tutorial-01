@@ -5,7 +5,7 @@ const Content = () => {
   const [items, setItems] = useState([
     {
       id: 1,
-      checked: true,
+      checked: false,
       item: "One half pound bag of Cocoa Covered Almonds Unsalted",
     },
     {
@@ -25,6 +25,7 @@ const Content = () => {
       item.id === id ? { ...item, checked: !item.checked } : item
     );
     setItems(listItems);
+    localStorage.setItem("shoppinglist", JSON.stringify(listItems));
   };
 
   return (
