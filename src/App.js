@@ -47,12 +47,12 @@ function App() {
   return (
     <div className="App">
       <Header title="Grocery List" />
-      <SearchItem search={search} setSearch={setSearch} />
       <AddItem
         newItem={newItem}
         setNewItem={setNewItem}
         handleSubmit={handleSubmit}
       />
+      <SearchItem search={search} setSearch={setSearch} />
       <Content
         items={items}
         handleCheck={handleCheck}
