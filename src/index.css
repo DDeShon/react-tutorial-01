@@ -85,11 +85,11 @@ ul li::before {
 .item input[type="checkbox"] {
   text-align: center;
   width: 2.5rem;
-  width: 48px;
-  min-width: 48px;
+  width: 40px;
+  min-width: 40px;
   height: 2.5rem;
-  height: 48px;
-  min-height: 48px;
+  height: 40px;
+  min-height: 40px;
   cursor: pointer;
   margin-right: 0.5rem;
 }
