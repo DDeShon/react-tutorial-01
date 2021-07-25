@@ -141,6 +141,7 @@ ul li::before {
   border-radius: 0.25rem;
   margin-right: 0.25rem;
   outline: none;
+  background-color: rgb(241, 218, 255);
 }
 
 button {
@@ -183,4 +184,5 @@ button:hover {
   padding: 0.25rem;
   border-radius: 0.25rem;
   outline: none;
+  background-color: rgb(241, 218, 255);
 }
