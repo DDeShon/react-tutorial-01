@@ -91,7 +91,7 @@ ul li::before {
   height: 40px;
   min-height: 40px;
   cursor: pointer;
-  margin-right: 0.5rem;
+  margin-right: 0.75rem;
 }
 
 .item input[type="checkbox"]:focus + label {
