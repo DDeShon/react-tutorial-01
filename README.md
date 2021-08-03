@@ -1,6 +1,6 @@
 
 
-This project is part of a React tutorial that I am taking by Dave Gray on YouTube. Dave's channel can be found at https://www.youtube.com/channel/UCY38RvRIxYODO4penyxUwTg
+This project is part of a React tutorial that I am taking by Dave Gray on YouTube. Dave's channel can be found at https://www.youtube.com/channel/UCY38RvRIxYODO4penyxUwTg. This will be an ongoing process as I learn and practice with React.
 
 
 
